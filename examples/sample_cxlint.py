@@ -16,7 +16,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from cxlint import CxLint
+from cxlint.cxlint import CxLint
 
 if __name__ == "__main__":
     agent_local_path = 'local_path/to/your/agent_files'
